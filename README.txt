@@ -1,0 +1,1 @@
+Simulare baza de date cu comenzi

@@ -1,0 +1,20 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\anchi\Documents\PP\Tema_2\target\scala-3.3.1\test-classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\anchi\Documents\PP\Tema_2\target\scala-3.3.1\test-classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	TestTable.class
+[debug] 	TestFilter.class
+[debug] 	Utils.class
+[debug] 	TestSQL.class
+[debug] 	Utils$.class
+[debug] 	TestDatabase.class
+[debug] 	TestTable.tasty
+[debug] 	TestFilter.tasty
+[debug] 	Utils.tasty
+[debug] 	TestSQL.tasty
+[debug] 	Utils$.tasty
+[debug] 	TestDatabase.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Users\anchi\Documents\PP\Tema_2\target\scala-3.3.1\test-classes.bak
